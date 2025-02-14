@@ -1,4 +1,4 @@
-![toolxox com-enhanced-XArSH6gzj7Wt82PRCZFK9Tu4dV0EBy](https://github.com/user-attachments/assets/6a879244-d9de-426e-9bd2-bc4f41e6c1de)
+
 ![toolxox com-enhanced-XArSH6gzj7Wt82PRCZFK9Tu4dV0EBy](https://github.com/user-attachments/assets/2a98fd72-41d2-4c19-8493-cae0067bae26)
 
 # Modern UI/UX GPT-3
