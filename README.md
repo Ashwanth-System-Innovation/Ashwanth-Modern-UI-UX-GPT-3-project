@@ -1,7 +1,7 @@
 
 ![toolxox com-enhanced-XArSH6gzj7Wt82PRCZFK9Tu4dV0EBy](https://github.com/user-attachments/assets/2a98fd72-41d2-4c19-8493-cae0067bae26)
 
-# Modern UI/UX GPT-3
+# Ashwanth Modern UI/UX GPT-3
 ### [Live Site](https://gpt3-jsm.com/)
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
